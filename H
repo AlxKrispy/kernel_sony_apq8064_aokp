@@ -1,0 +1,45 @@
+Transaction
+73C2523B0672EE7AD21E1546FC46CA4B330B7406EFA93EC68178AA024EEB16F2
+copy-hash
+Summary
+Status
+
+Time
+ 
+2022-02-25, 13:13:45 UTC
+Block Height
+ 
+4,677,911
+Block Hash
+ 
+10B726385B17CEB4B67E01B4F64ECF9C64EB83F87B4053FB581F9C918BC7CAC7
+Details
+Tx Hash
+ 
+73C2523B0672EE7AD21E1546FC46CA4B330B7406EFA93EC68178AA024EEB16F2
+Gas Wanted
+ 
+500000
+Gas Used
+ 
+117196
+Fee
+ 
+0.0002 CRO
+Memo
+ 
+-
+Messages
+Delegate
+Delegator:
+ 
+cro176z3fgqnakr734gv92zvrt6ar9yy84aa7s4ngf
+Validator:
+ 
+crocncl19zsj3eyhk678nz5z0nxgy5fsavw9dx347r9gfr
+Amount:
+ 
+549.99880000 CRO
+Auto Claimed Rewards:
+ 
+0
